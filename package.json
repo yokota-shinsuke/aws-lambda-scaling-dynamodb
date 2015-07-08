@@ -1,0 +1,16 @@
+{
+  "name": "scalingDynamoDB",
+  "version": "0.0.0",
+  "description": "This is AWS Lambda function to scaling DynamoDB table.",
+  "main": "scalingDynamoDB.js",
+  "dependencies": {
+    "aws-sdk": "*",
+    "async": "~1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shinsuke Yokota",
+  "license": "BSD"
+}
